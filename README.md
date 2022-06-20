@@ -1,4 +1,4 @@
-### Hi there 👋
+### sou técnico mas só tenho técnica dentro da técnica
 
 <!--
 **fepra04/fepra04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
